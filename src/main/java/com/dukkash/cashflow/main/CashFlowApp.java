@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 public class CashFlowApp {
 
     public static void main(String[] args) {
-        System.out.println("Hello from CashFlow App!");
+        System.out.println("Starting CashFlow App!");
         SpringApplication.run(CashFlowApp.class, args);
+        System.out.println("Started CashFlow App!");
     }
 }
