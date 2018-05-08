@@ -11,3 +11,8 @@ or
 $> gradle eclipse
 
 then include the project as existing external project into the IDE.
+
+##Running the app:
+
+Run the CashFlowApp.java from Eclipse or IDEA as java application
+Open a browser, type http://localhost:8080
